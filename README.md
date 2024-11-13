@@ -2,7 +2,6 @@ Langkah 1: Persiapan Lingkungan
 
 
 1. ![alt text](image.png)
-
 2. ![alt text](image-1.png)
 
 Langkah 2: Instalasi dan Konfigurasi Laravel Sanctum
